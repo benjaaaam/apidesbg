@@ -4,7 +4,6 @@ const express = require("express");
 
 // ! MODULES PERSO
 const userRouter = require("./routes/userRoutes");
-
 const app = express();
 
 // if (process.env.NODE_ENV === "development") {
